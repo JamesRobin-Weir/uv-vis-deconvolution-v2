@@ -34,3 +34,7 @@ Once you have the dependencies, you should be able to clone it down and run it a
 git clone https://github.com/JamesRobin-Weir/uv-vis-deconvolution.git Downloads/deconvolution
 jupyter lab --notebook-dir=Downloads/deconvolution
 ```
+
+![Interface](Interface.png)
+
+![Example deconvolution](Example_deconvolution.png)
